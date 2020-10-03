@@ -1,0 +1,1 @@
+/bin/bash: docker: command not found
